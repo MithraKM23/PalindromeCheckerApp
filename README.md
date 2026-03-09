@@ -1,14 +1,14 @@
-**UC11: Object-Oriented Palindrome Service**
+# UC11: Object-Oriented Palindrome Service
 
----
 
-**Goal**
+
+## Goal
  
 Encapsulate palindrome logic inside a dedicated class.
 
----
+
  
-**Flow**
+## Flow
  
 - Create a PalindromeChecker class.
  
@@ -18,8 +18,8 @@ Encapsulate palindrome logic inside a dedicated class.
  
 - Display the result.
 
----
+
  
-**Data Structure**
+## Data Structure
  
 Internal structures (Array / Stack)
