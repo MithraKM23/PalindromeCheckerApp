@@ -1,14 +1,13 @@
-**UC10: Case-Insensitive & Space-Ignored Palindrome**
+# UC10: Case-Insensitive & Space-Ignored Palindrome
 
----
 
-**Goal**
+## Goal
  
 Validate palindrome while ignoring spaces and letter case.
 
----
+
  
-**Flow**
+## Flow
  
 - Normalize the string (remove spaces and convert to lowercase).
  
@@ -16,8 +15,8 @@ Validate palindrome while ignoring spaces and letter case.
  
 - Display the result.
 
----
+
  
-**Data Structure**
+## Data Structure
  
 String / Array
