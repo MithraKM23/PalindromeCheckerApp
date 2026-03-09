@@ -1,14 +1,14 @@
-**UC12: Strategy Pattern for Palindrome Algorithms**
+# UC12: Strategy Pattern for Palindrome Algorithms
 
----
 
-**Goal**
+
+## Goal
  
 Allow dynamic selection of different palindrome algorithms at runtime.
 
----
+
  
-**Flow**
+## Flow
  
 Define a PalindromeStrategy interface.
  
@@ -18,8 +18,8 @@ Select a strategy at runtime.
  
 Execute the selected palindrome algorithm.
 
----
+
  
-**Data Structure**
+## Data Structure
 
 Stack and Deque
