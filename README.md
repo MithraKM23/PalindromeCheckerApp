@@ -1,14 +1,10 @@
-**UC5: Stack-Based Palindrome Checker**
+# UC5: Stack-Based Palindrome Checker
 
----
-
-**Goal**
+## Goal
  
 Use a stack to reverse characters and validate a palindrome.
-
----
  
-**Flow**
+## Flow
  
 - Convert string characters into stack elements.
  
@@ -19,9 +15,7 @@ Use a stack to reverse characters and validate a palindrome.
 - Compare with the original sequence.
  
 - Print the result.
-
- ---
  
-**Data Structure**
+## Data Structure
  
 Stack
