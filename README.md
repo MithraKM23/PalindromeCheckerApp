@@ -1,14 +1,12 @@
-**UC8: Linked List-Based Palindrome Checker**
+# UC8: Linked List-Based Palindrome Checker
 
----
 
-**Goal**
+## Goal
  
 Check palindrome using a singly linked list.
 
----
  
-**Flow**
+## Flow
  
 - Convert the string into a linked list.
  
@@ -20,9 +18,9 @@ Check palindrome using a singly linked list.
  
 - Display the result.
 
----
+
  
-**Data Structure**
+## Data Structure
  
 Singly Linked List
  
