@@ -1,14 +1,12 @@
-**UC6: Queue + Stack Based Palindrome Check**
+## UC6: Queue + Stack Based Palindrome Check
 
----
 
-**Goal**
+## Goal
  
 Demonstrate FIFO and LIFO behavior using Queue and Stack.
 
----
  
-**Flow**
+## Flow
  
 - Insert characters into a queue.
  
@@ -20,8 +18,7 @@ Demonstrate FIFO and LIFO behavior using Queue and Stack.
  
 - Compare both outputs to verify palindrome.
 
----
  
-**Data Structure**
+## Data Structure
  
 Queue, Stack
