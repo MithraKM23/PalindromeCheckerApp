@@ -1,14 +1,14 @@
-**UC7: Deque-Based Optimized Palindrome Checker**
+# UC7: Deque-Based Optimized Palindrome Checker
 
----
 
-**Goal**
+
+## Goal
  
 Use a Deque to compare characters from both ends efficiently.
 
----
+
  
-**Flow**
+## Flow
  
 - Insert all characters into a deque.
  
@@ -18,8 +18,8 @@ Use a Deque to compare characters from both ends efficiently.
  
 - Continue until the deque is empty or mismatch occurs.
 
----
+
  
-**Data Structure**
+## Data Structure
  
 Deque
