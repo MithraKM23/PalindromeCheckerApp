@@ -1,14 +1,13 @@
-**UC9: Recursive Palindrome Checker**
+# UC9: Recursive Palindrome Checker
 
----
 
-**Goal**
+## Goal
  
 Validate palindrome using recursion.
 
----
+
  
-**Flow**
+## Flow
  
 - Compare characters at the beginning and end.
  
@@ -18,8 +17,8 @@ Validate palindrome using recursion.
  
 - Return the final result.
 
----
+
  
-**Data Structure**
+## Data Structure
  
 Call Stack
